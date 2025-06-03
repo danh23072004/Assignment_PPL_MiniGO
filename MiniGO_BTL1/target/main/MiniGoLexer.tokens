@@ -1,0 +1,16 @@
+T__0=1
+IF=2
+ADD=3
+LPAREN=4
+ID=5
+INT_LIT=6
+WS=7
+ERROR_CHAR=8
+UNCLOSE_STRING=9
+ILLEGAL_ESCAPE=10
+'votien'=1
+'if'=2
+'+'=3
+'('=4
+'U'=9
+'I'=10

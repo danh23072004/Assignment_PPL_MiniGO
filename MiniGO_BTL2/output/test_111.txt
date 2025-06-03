@@ -1,0 +1,1 @@
+Program([ConstDecl(VoTien,StructLiteral(STRUCT,[(a,IntLiteral(1)),(b,BooleanLiteral(false))]))])

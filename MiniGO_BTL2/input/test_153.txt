@@ -1,0 +1,19 @@
+
+        func fvoid() {putStringLn("VoTien");}
+
+        var global = fint()
+        func main() {
+            fvoid();
+            putFloatLn(global + 2.0)
+            
+            d := 1;
+
+            var local = "a";
+            putBoolLn(local <= "b")
+            local += "c"
+            putStringLn(local)
+
+        };
+
+        func fint() int {return 1;}
+        

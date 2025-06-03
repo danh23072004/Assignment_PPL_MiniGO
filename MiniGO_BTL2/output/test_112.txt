@@ -1,0 +1,1 @@
+Program([ConstDecl(VoTien,ArrayLiteral([Id(ID)],IntType,[IntLiteral(1)]))])
